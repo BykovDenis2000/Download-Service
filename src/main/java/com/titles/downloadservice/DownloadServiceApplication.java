@@ -1,16 +1,24 @@
 package com.titles.downloadservice;
 
+import com.titles.downloadservice.Controller.DownloadService;
+import com.titles.downloadservice.Controller.NewsAPIFetcher;
+import com.titles.downloadservice.Controller.SendService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
+
+import java.util.List;
+
+//  docker build -t download-service .
 
 @SpringBootApplication
-@RestController
-public class DownloadServiceApplication extends SpringBootServletInitializer {
+public class DownloadServiceApplication extends SpringBootServletInitializer implements CommandLineRunner {
+
+	@Autowired
+	private NewsAPIFetcher newsApiFetcher;
 
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
@@ -21,9 +29,11 @@ public class DownloadServiceApplication extends SpringBootServletInitializer {
 		SpringApplication.run(DownloadServiceApplication.class, args);
 	}
 
-	@GetMapping("/")
-	public String test()  {
-		return "Working";
+	@Override
+	public void run(String... args) throws Exception {
+		DownloadService ds = DownloadService.defaultService;
+		SendService s = SendService.defaultService;
+		ds.init(s, List.of(newsApiFetcher));
 	}
 }
 
