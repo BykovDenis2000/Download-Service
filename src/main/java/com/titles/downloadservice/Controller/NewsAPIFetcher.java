@@ -21,8 +21,6 @@ public class NewsAPIFetcher implements Source {
 
     private final RestTemplate restTemplate;
 
-    private final String url = "http://newsapi.org/v2/top-headlines?country=us&apiKey=ebc792054f5e4d5eb1fac2cc242fd4cd";
-
     public NewsAPIFetcher() {
         RestTemplateBuilder restTemplateBuilder = new RestTemplateBuilder();
         this.restTemplate = restTemplateBuilder.build();
