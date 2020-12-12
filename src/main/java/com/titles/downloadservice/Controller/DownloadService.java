@@ -2,8 +2,8 @@ package com.titles.downloadservice.Controller;
 
 import com.titles.downloadservice.Controller.Interfaces.Sender;
 import com.titles.downloadservice.Controller.Interfaces.Source;
-import com.titles.downloadservice.Model.Paper;
-import org.json.simple.JSONObject;
+import com.titles.downloadservice.Model.Paper.Paper;
+import org.json.simple.JSONArray;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
@@ -56,9 +56,10 @@ public class DownloadService {
         return sender.send(data);
     }
 
-    public String test() {
+    // TODO: remove this after testing
+    public JSONArray test() {
         List<Paper> data = fetchData();// data
-        return data.toString();
+        return JSONMaker.makeJSON(data);
     }
 
     /**

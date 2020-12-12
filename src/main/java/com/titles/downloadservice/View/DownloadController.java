@@ -1,6 +1,7 @@
 package com.titles.downloadservice.View;
 
 import com.titles.downloadservice.Controller.DownloadService;
+import org.json.simple.JSONArray;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -15,7 +16,7 @@ public class DownloadController {
     }
 
     @GetMapping("/test")
-    public String fetchTest()  {
+    public JSONArray fetchTest()  {
         return service.test();
     }
 

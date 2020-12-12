@@ -1,8 +1,9 @@
-package com.titles.downloadservice.Model;
+package com.titles.downloadservice.Model.NAPIRaw;
 
 import java.io.Serializable;
 import java.util.List;
 import java.util.Optional;
+
 
 public class NewsAPIRawData implements Serializable {
     private Optional<String> status;

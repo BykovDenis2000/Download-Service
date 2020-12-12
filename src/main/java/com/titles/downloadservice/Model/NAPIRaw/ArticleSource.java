@@ -1,8 +1,14 @@
-package com.titles.downloadservice.Model;
+package com.titles.downloadservice.Model.NAPIRaw;
 
 import java.io.Serializable;
 import java.util.Optional;
 
+/*
+: {
+        "id": "cnn",
+        "name": "CNN"
+      },
+ */
 public class ArticleSource implements Serializable {
     private Optional<String> id;
     private Optional<String> name;
@@ -26,8 +32,8 @@ public class ArticleSource implements Serializable {
     @Override
     public String toString() {
         return "ArticleSource{" +
-                "id=" + id +
-                ", name=" + name +
+                "id=" + id.orElse("") +
+                ", name=" + name.orElse("") +
                 '}';
     }
 }

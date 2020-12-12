@@ -1,9 +1,10 @@
 package com.titles.downloadservice;
 
 import com.titles.downloadservice.Controller.DownloadService;
-import com.titles.downloadservice.Controller.NewsAPIFetcher;
+import com.titles.downloadservice.Controller.HackerNews.HackerAPIFetcher;
+import com.titles.downloadservice.Controller.NYTimes.NYTAPIFetcher;
+import com.titles.downloadservice.Controller.NewsAPI.NewsAPIFetcher;
 import com.titles.downloadservice.Controller.SendService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -17,9 +18,6 @@ import java.util.List;
 @SpringBootApplication
 public class DownloadServiceApplication extends SpringBootServletInitializer implements CommandLineRunner {
 
-	@Autowired
-	private NewsAPIFetcher newsApiFetcher;
-
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		return application.sources(DownloadServiceApplication.class);
@@ -30,10 +28,14 @@ public class DownloadServiceApplication extends SpringBootServletInitializer imp
 	}
 
 	@Override
-	public void run(String... args) throws Exception {
+	public void run(String... args) {
+		NYTAPIFetcher nytapiFetcher = new NYTAPIFetcher();
+		NewsAPIFetcher newsApiFetcher = new NewsAPIFetcher();
+		HackerAPIFetcher hackerAPIFetcher = new HackerAPIFetcher();
+
 		DownloadService ds = DownloadService.defaultService;
 		SendService s = SendService.defaultService;
-		ds.init(s, List.of(newsApiFetcher));
+		ds.init(s, List.of(nytapiFetcher, newsApiFetcher, hackerAPIFetcher));
 	}
 }
 

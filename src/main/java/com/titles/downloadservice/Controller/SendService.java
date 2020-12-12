@@ -1,8 +1,7 @@
 package com.titles.downloadservice.Controller;
 
 import com.titles.downloadservice.Controller.Interfaces.Sender;
-import com.titles.downloadservice.Model.Content;
-import com.titles.downloadservice.Model.Paper;
+import com.titles.downloadservice.Model.Paper.Paper;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.springframework.boot.web.client.RestTemplateBuilder;
@@ -28,15 +27,23 @@ public class SendService implements Sender {
         this.restTemplate = restTemplateBuilder.build();
     }
 
+    /**
+     *
+     * @param papers
+     * @return
+     */
     @Override
     public Integer send(List<Paper> papers) {
-        JSONArray data = makeJSON(papers);
-        if (createPostWithObject(data, destinationUrl) != null) {
-            return 1;
-        }
-        return 0;
+        JSONArray data = JSONMaker.makeJSON(papers);
+        return createPostWithObject(data, destinationUrl);
     }
 
+    /**
+     *
+     * @param object
+     * @param url
+     * @return
+     */
     private Integer createPostWithObject(JSONArray object, String url) {
 
         // create headers
@@ -62,63 +69,6 @@ public class SendService implements Sender {
         return 1;
     }
 
-    private Object getRequest(String url) {
-        RestTemplate restTemplate = new RestTemplate();
-        Object response = null;
-        try {
-            response = restTemplate.getForObject(url, String.class);
-        } catch (Exception e) {
-            System.out.println(e.getLocalizedMessage());
-        }
-        return response;
-    }
 
-    // FIXME: make private
-    public JSONArray makeJSON(List<Paper> papers) {
-        //        https://www.geeksforgeeks.org/working-with-json-data-in-java/
-        // In java JSONObject is used to create JSON object
-        // which is a subclass of java.util.HashMap.
-
-        JSONArray file = new JSONArray();
-
-        for (Paper paper : papers) {
-            JSONObject JSONpaper = new JSONObject();
-
-            JSONpaper.put("source", paper.getSource());
-            JSONpaper.put("author", paper.getAuthor());
-            JSONpaper.put("time", paper.getTime());
-            JSONpaper.put("score", paper.getScore());
-
-            JSONArray JSONtags = new JSONArray();
-            for (String tag : paper.getTags())
-                JSONtags.add(tag);
-            JSONpaper.put("tags", JSONtags);
-
-            JSONArray JSONthemes = new JSONArray();
-            for (String theme : paper.getTheme())
-                JSONthemes.add(theme);
-            JSONpaper.put("themes", JSONthemes);
-
-            JSONpaper.put("url", paper.getUrl());
-            JSONpaper.put("title", paper.getTitle());
-            JSONpaper.put("description", paper.getDescription());
-            JSONpaper.put("text", paper.getText());
-
-            JSONArray JSONcontent = new JSONArray();
-            for (Content c : paper.getContent()) {
-                JSONObject content = new JSONObject();
-                content.put("type", c.getType());
-                content.put("url", c.getUrl());
-                JSONcontent.add(content);
-            }
-            JSONpaper.put("content", JSONcontent);
-
-            file.add(JSONpaper);
-        }
-
-        // To print in JSON format.
-        System.out.print(file);
-        return file;
-    }
 
 }

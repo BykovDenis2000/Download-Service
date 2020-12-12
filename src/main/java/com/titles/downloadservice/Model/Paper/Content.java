@@ -1,4 +1,4 @@
-package com.titles.downloadservice.Model;
+package com.titles.downloadservice.Model.Paper;
 
 public class Content {
 

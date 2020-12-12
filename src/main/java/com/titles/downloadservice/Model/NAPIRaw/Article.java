@@ -1,4 +1,4 @@
-package com.titles.downloadservice.Model;
+package com.titles.downloadservice.Model.NAPIRaw;
 
 import java.io.Serializable;
 import java.util.Optional;
@@ -17,13 +17,13 @@ public class Article implements Serializable {
     public String toString() {
         return "Article{" +
                 "source=" + source +
-                ", author=" + author +
-                ", title=" + title +
-                ", description=" + description +
-                ", url=" + url +
-                ", urlToImage=" + urlToImage +
-                ", publishedAt=" + publishedAt +
-                ", content=" + content +
+                ", author=" + author.orElse("") +
+                ", title=" + title.orElse("") +
+                ", description=" + description.orElse("") +
+                ", url=" + url.orElse("") +
+                ", urlToImage=" + urlToImage.orElse("") +
+                ", publishedAt=" + publishedAt.orElse("") +
+                ", content=" + content.orElse("") +
                 '}';
     }
 
@@ -31,13 +31,9 @@ public class Article implements Serializable {
         return source;
     }
 
-    public void setSource(Optional<ArticleSource> source) {
-        this.source = source;
-    }
+    public void setSource(Optional<ArticleSource> source) { this.source = source; }
 
-    public Optional<String> getAuthor() {
-        return author;
-    }
+    public Optional<String> getAuthor() { return author; }
 
     public void setAuthor(Optional<String> author) {
         this.author = author;

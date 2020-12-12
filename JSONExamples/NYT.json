@@ -1,0 +1,1241 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/b634ac1a-4614-5fd4-a85b-2915c2909fad",
+      "url": "https://www.nytimes.com/2020/12/10/health/covid-vaccine-pfizer-fda.html",
+      "id": 100000007495104,
+      "asset_id": 100000007495104,
+      "source": "New York Times",
+      "published_date": "2020-12-10",
+      "updated": "2020-12-11 08:11:37",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Vaccination and Immunization;Clinical Trials;Coronavirus (2019-nCoV);Regulation and Deregulation of Industry;your-feed-healthcare;Food and Drug Administration;BioNTech SE;Pfizer Inc",
+      "column": null,
+      "byline": "By Katie Thomas, Noah Weiland and Sharon LaFraniere",
+      "type": "Article",
+      "title": "F.D.A. Advisory Panel Gives Green Light to Pfizer Vaccine",
+      "abstract": "The blessing of these experts means that the agency will likely OK the vaccine’s use, paving the way for health care workers to begin getting shots next week.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Clinical Trials",
+        "Coronavirus (2019-nCoV)",
+        "Regulation and Deregulation of Industry",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Food and Drug Administration",
+        "BioNTech SE",
+        "Pfizer Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9fa90aa8-3a25-5284-84d4-b07fad97d038",
+      "url": "https://www.nytimes.com/2020/12/04/opinion/sunday/pornhub-rape-trafficking.html",
+      "id": 100000007479053,
+      "asset_id": 100000007479053,
+      "source": "New York Times",
+      "published_date": "2020-12-04",
+      "updated": "2020-12-10 13:08:44",
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "nytdsection": "opinion",
+      "adx_keywords": "Child Abuse and Neglect;Sex Crimes;Child Pornography;Video Recordings, Downloads and Streaming;Computers and the Internet;Women and Girls;Pornography;Human Trafficking;Regulation and Deregulation of Industry;Pornhub;MindGeek Sarl;Canada",
+      "column": null,
+      "byline": "By Nicholas Kristof",
+      "type": "Article",
+      "title": "The Children of Pornhub",
+      "abstract": "Why does Canada allow this company to profit off videos of exploitation and assault?",
+      "des_facet": [
+        "Child Abuse and Neglect",
+        "Sex Crimes",
+        "Child Pornography",
+        "Video Recordings, Downloads and Streaming",
+        "Computers and the Internet",
+        "Women and Girls",
+        "Pornography",
+        "Human Trafficking",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [
+        "Pornhub",
+        "MindGeek Sarl"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Canada"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Serena K. Fleites, 19, was 14 when a boy she had a crush on asked her to make a naked video and send it to him. She did, and it ended up on Pornhub.",
+          "copyright": "Rachel Bujalski for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fa31afaa-dc76-5125-8007-356048af83d1",
+      "url": "https://www.nytimes.com/2020/12/09/us/politics/trump-coronavirus-treatments.html",
+      "id": 100000007495114,
+      "asset_id": 100000007495114,
+      "source": "New York Times",
+      "published_date": "2020-12-09",
+      "updated": "2020-12-10 11:49:54",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Shortages;Rationing and Allocation of Resources;Drugs (Pharmaceuticals);Antibodies;Ethics and Official Misconduct;Coronavirus (2019-nCoV);United States Politics and Government;Trump, Donald J;Giuliani, Rudolph W;Carson, Benjamin S;Christie, Christopher J;Regeneron Pharmaceuticals Inc;Eli Lilly and Company",
+      "column": null,
+      "byline": "By Sheryl Gay Stolberg",
+      "type": "Article",
+      "title": "Trump and Friends Got Coronavirus Care Many Others Couldn’t",
+      "abstract": "Rudolph W. Giuliani became the latest in President Trump’s inner circle to boast about the treatment he received for Covid-19, as hospitals across the country ration care.",
+      "des_facet": [
+        "Shortages",
+        "Rationing and Allocation of Resources",
+        "Drugs (Pharmaceuticals)",
+        "Antibodies",
+        "Ethics and Official Misconduct",
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Regeneron Pharmaceuticals Inc",
+        "Eli Lilly and Company"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Giuliani, Rudolph W",
+        "Carson, Benjamin S",
+        "Christie, Christopher J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudolph W. Giuliani is the latest member of President Trump’s inner circle to come down with Covid-19. He said he received at least two of the same drugs as the president.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/us/politics/09dc-whitehousedrugs/merlin_180210183_1dea3849-35ed-48de-ad0d-879a333b0ab1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/us/politics/09dc-whitehousedrugs/merlin_180210183_1dea3849-35ed-48de-ad0d-879a333b0ab1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/us/politics/09dc-whitehousedrugs/merlin_180210183_1dea3849-35ed-48de-ad0d-879a333b0ab1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/10d99433-01fd-52f7-b2cd-d5a10e558c0f",
+      "url": "https://www.nytimes.com/2020/12/10/us/trump-election-lawsuit-states.html",
+      "id": 100000007497527,
+      "asset_id": 100000007497527,
+      "source": "New York Times",
+      "published_date": "2020-12-10",
+      "updated": "2020-12-11 10:22:12",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Suits and Litigation (Civil);Electoral College;Attorneys General;Constitution (US);Voter Fraud (Election Fraud);United States Politics and Government;Federal-State Relations (US);Biden, Joseph R Jr;Trump, Donald J;Paxton, Ken;Supreme Court (US);Georgia;Michigan;Pennsylvania;Wisconsin;Texas",
+      "column": null,
+      "byline": "By Adam Liptak and Jeremy W. Peters",
+      "type": "Article",
+      "title": "In Blistering Retort, 4 Battleground States Tell Texas to Butt Out of Election",
+      "abstract": "The attorneys general of Pennsylvania, Michigan, Wisconsin and Georgia asked the Supreme Court to reject a lawsuit from Texas seeking to overturn President-elect Joe Biden’s victories.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Suits and Litigation (Civil)",
+        "Electoral College",
+        "Attorneys General",
+        "Constitution (US)",
+        "Voter Fraud (Election Fraud)",
+        "United States Politics and Government",
+        "Federal-State Relations (US)"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J",
+        "Paxton, Ken"
+      ],
+      "geo_facet": [
+        "Georgia",
+        "Michigan",
+        "Pennsylvania",
+        "Wisconsin",
+        "Texas"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump greeted Attorney General Ken Paxton in Austin, Texas, earlier this year. Mr. Paxton filed a lawsuit that seeks to overturn state victories by President-elect Joseph R. Biden Jr.",
+          "copyright": "T.J. Kirkpatrick for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/us/politics/10lawsuits1/10lawsuits1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/us/politics/10lawsuits1/10lawsuits1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/us/politics/10lawsuits1/10lawsuits1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c18acdb1-df30-56cf-ac88-37142eae0120",
+      "url": "https://www.nytimes.com/2020/12/10/opinion/trump-constitution-norms.html",
+      "id": 100000007490530,
+      "asset_id": 100000007490530,
+      "source": "New York Times",
+      "published_date": "2020-12-10",
+      "updated": "2020-12-11 08:42:35",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Presidents and Presidency (US);Constitution (US);Courts and the Judiciary;States (US);United States Defense and Military Forces;Federal-State Relations (US);Corruption (Institutional);Trump, Donald J;House of Representatives;Senate;Justice Department",
+      "column": null,
+      "byline": "By Tim Wu",
+      "type": "Article",
+      "title": "What Really Saved the Republic From Trump?",
+      "abstract": "It wasn’t our constitutional system of checks and balances.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidents and Presidency (US)",
+        "Constitution (US)",
+        "Courts and the Judiciary",
+        "States (US)",
+        "United States Defense and Military Forces",
+        "Federal-State Relations (US)",
+        "Corruption (Institutional)"
+      ],
+      "org_facet": [
+        "House of Representatives",
+        "Senate",
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Annie Jen",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/opinion/10wu/10wu-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/opinion/10wu/10wu-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/opinion/10wu/10wu-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c0b492f8-7178-57d9-9236-909f3b29a355",
+      "url": "https://www.nytimes.com/2020/12/09/well/move/to-lose-weight-with-exercise-aim-for-300-minutes-a-week.html",
+      "id": 100000007492607,
+      "asset_id": 100000007492607,
+      "source": "New York Times",
+      "published_date": "2020-12-09",
+      "updated": "2020-12-09 21:36:39",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Exercise;Calories;Weight;Hormones;Research;Medicine & Science in Sports & Exercise (Journal);University of Kentucky",
+      "column": null,
+      "byline": "By Gretchen Reynolds",
+      "type": "Article",
+      "title": "To Lose Weight With Exercise, Aim for 300 Minutes a Week",
+      "abstract": "Overweight men and women who exercised six days a week lost weight; those who worked out twice a week did not.",
+      "des_facet": [
+        "Exercise",
+        "Calories",
+        "Weight",
+        "Hormones",
+        "Research"
+      ],
+      "org_facet": [
+        "Medicine & Science in Sports & Exercise (Journal)",
+        "University of Kentucky"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/15/well/physed-swimming/physed-swimming-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/15/well/physed-swimming/physed-swimming-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/15/well/physed-swimming/physed-swimming-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9ba8d4f2-fc69-5399-9e31-9d52ce94e377",
+      "url": "https://www.nytimes.com/2020/12/09/science/spacex-starship-crash.html",
+      "id": 100000007491736,
+      "asset_id": 100000007491736,
+      "source": "New York Times",
+      "published_date": "2020-12-09",
+      "updated": "2020-12-10 09:40:11",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Explosions (Accidental);Rocket Science and Propulsion;Private Spaceflight;Mars (Planet);internal-storyline-no;Musk, Elon;Space Exploration Technologies Corp;Texas",
+      "column": null,
+      "byline": "By Kenneth Chang",
+      "type": "Article",
+      "title": "Watch SpaceX’s Starship Launch and Explode in Crash Landing",
+      "abstract": "The company described the test of the next-generation spacecraft as “awesome” even though it ended in a fiery blast.",
+      "des_facet": [
+        "Explosions (Accidental)",
+        "Rocket Science and Propulsion",
+        "Private Spaceflight",
+        "Mars (Planet)",
+        "internal-storyline-no"
+      ],
+      "org_facet": [
+        "Space Exploration Technologies Corp"
+      ],
+      "per_facet": [
+        "Musk, Elon"
+      ],
+      "geo_facet": [
+        "Texas"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "SpaceX’s Starship prototype at the company’s launch facility in Boca Chica, Texas.",
+          "copyright": "Spacex/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/08/science/08SPACEX/08SPACEX-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/08/science/08SPACEX/08SPACEX-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/08/science/08SPACEX/08SPACEX-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0f541d60-8f4e-5cc7-ba59-e7882bbf66ca",
+      "url": "https://www.nytimes.com/2020/12/09/us/politics/trump-texas-supreme-court-lawsuit.html",
+      "id": 100000007495762,
+      "asset_id": 100000007495762,
+      "source": "New York Times",
+      "published_date": "2020-12-09",
+      "updated": "2020-12-10 19:08:53",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Attorneys General;States (US);Suits and Litigation (Civil);United States Politics and Government;Paxton, Ken;Trump, Donald J;Republican Party;Supreme Court (US);Texas",
+      "column": null,
+      "byline": "By Jeremy W. Peters and Maggie Haberman",
+      "type": "Article",
+      "title": "17 Republican Attorneys General Back Trump in Far-Fetched Election Lawsuit",
+      "abstract": "The move is an attempt to bolster a baseless legal effort by Texas that seeks to delay certification of the presidential electors in four battleground states that Mr. Trump lost.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Attorneys General",
+        "States (US)",
+        "Suits and Litigation (Civil)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Paxton, Ken",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Texas"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump asked Senator Ted Cruz, a Texas Republican, to represent him in a suit filed to the Supreme Court seeking to delay final certification of the election results in four states.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/us/politics/09AG-ELECTIONSUIT/09AG-ELECTIONSUIT-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/us/politics/09AG-ELECTIONSUIT/09AG-ELECTIONSUIT-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/us/politics/09AG-ELECTIONSUIT/09AG-ELECTIONSUIT-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/adde3b3e-5856-5069-b80a-41c388f5b7a4",
+      "url": "https://www.nytimes.com/2020/12/09/opinion/pornhub-news-child-abuse.html",
+      "id": 100000007495073,
+      "asset_id": 100000007495073,
+      "source": "New York Times",
+      "published_date": "2020-12-09",
+      "updated": "2020-12-11 09:07:13",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Child Pornography;Child Abuse and Neglect;Sex Crimes;Regulation and Deregulation of Industry;Politics and Government;Law and Legislation;United States Politics and Government;Pornhub;Canada",
+      "column": null,
+      "byline": "By Nicholas Kristof",
+      "type": "Article",
+      "title": "An Uplifting Update, on the Terrible World of Pornhub",
+      "abstract": "Young heroes lead in confronting pornography companies that monetize rape and child abuse.",
+      "des_facet": [
+        "Child Pornography",
+        "Child Abuse and Neglect",
+        "Sex Crimes",
+        "Regulation and Deregulation of Industry",
+        "Politics and Government",
+        "Law and Legislation",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Pornhub"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Canada"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rachel Bujalski for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/opinion/09kristofWeb/09kristofWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/opinion/09kristofWeb/09kristofWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/opinion/09kristofWeb/09kristofWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fdff41ef-1b2f-5a29-bb85-9feb3b5f3bcc",
+      "url": "https://www.nytimes.com/2020/12/09/health/Covid-toddlers-playdates.html",
+      "id": 100000007454287,
+      "asset_id": 100000007454287,
+      "source": "New York Times",
+      "published_date": "2020-12-09",
+      "updated": "2020-12-10 08:21:18",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Children and Childhood;Coronavirus (2019-nCoV);Parenting;Families and Family Life;Research;Mental Health and Disorders;Quarantine (Life and Culture);Social Conditions and Trends;your-feed-healthcare",
+      "column": null,
+      "byline": "By Matt Richtel",
+      "type": "Article",
+      "title": "Childhood Without Other Children: A Generation Is Raised in Quarantine",
+      "abstract": "Covid-19 has meant the youngest children can’t go to birthday parties or play dates. Parents are keeping them out of day care. What is the long-term effect of the pandemic on our next generation?",
+      "des_facet": [
+        "Children and Childhood",
+        "Coronavirus (2019-nCoV)",
+        "Parenting",
+        "Families and Family Life",
+        "Research",
+        "Mental Health and Disorders",
+        "Quarantine (Life and Culture)",
+        "Social Conditions and Trends",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cayce Clifford for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/science/09VIRUS-TODDLERS1/09VIRUS-TODDLERS1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/science/09VIRUS-TODDLERS1/09VIRUS-TODDLERS1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/science/09VIRUS-TODDLERS1/09VIRUS-TODDLERS1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f3a76a38-c266-501b-9659-b4b207ecad27",
+      "url": "https://www.nytimes.com/2020/12/09/world/europe/uk-treasure-lockdown-gardening.html",
+      "id": 100000007492169,
+      "asset_id": 100000007492169,
+      "source": "New York Times",
+      "published_date": "2020-12-09",
+      "updated": "2020-12-11 09:19:13",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Treasure Troves;Gardens and Gardening;Archaeology and Anthropology;Museums;Law and Legislation;Silver;Gold;Collectors and Collections;Great Britain;England",
+      "column": null,
+      "byline": "By Jenny Gross",
+      "type": "Article",
+      "title": "Lockdown Gardening in Britain Leads to Archaeological Discoveries",
+      "abstract": "The finds this year, including a cache of gold coins from the reign of Henry VIII, come as Britain considers expanding the law to protect a broader range of artifacts from its centuries-old history.",
+      "des_facet": [
+        "Treasure Troves",
+        "Gardens and Gardening",
+        "Archaeology and Anthropology",
+        "Museums",
+        "Law and Legislation",
+        "Silver",
+        "Gold",
+        "Collectors and Collections"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Great Britain",
+        "England"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "South African Krugerrand gold coins found in Milton Keynes, England, this year.",
+          "copyright": "British Museum’s Portable Antiquities Scheme",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/world/europe/oakImage-1607520516303/oakImage-1607520516303-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/world/europe/oakImage-1607520516303/oakImage-1607520516303-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/world/europe/oakImage-1607520516303/oakImage-1607520516303-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c5c6a09d-f362-5705-ac1d-18ff30d9f8ab",
+      "url": "https://www.nytimes.com/2020/12/10/dining/marilyn-hagerty-grand-forks-restaurants.html",
+      "id": 100000007485922,
+      "asset_id": 100000007485922,
+      "source": "New York Times",
+      "published_date": "2020-12-10",
+      "updated": "2020-12-10 23:34:28",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Restaurants;Newspapers;Quarantine (Life and Culture);Bars and Nightclubs;Content Type: Personal Profile;Hagerty, Marilyn (1926- );North Dakota",
+      "column": null,
+      "byline": "By Pete Wells",
+      "type": "Article",
+      "title": "The Olive Garden Is Open, but Marilyn Hagerty Isn’t Eating There",
+      "abstract": "At 94, the author of a North Dakota restaurant review that became an internet sensation is still at work. In the pandemic, though, she’s had to make a few changes.",
+      "des_facet": [
+        "Restaurants",
+        "Newspapers",
+        "Quarantine (Life and Culture)",
+        "Bars and Nightclubs",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Hagerty, Marilyn (1926- )"
+      ],
+      "geo_facet": [
+        "North Dakota"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“She’s not doing it for the money,” said Ms. Hagerty’s son, James.",
+          "copyright": "Dan Koeck for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/dining/10hagerty7/10hagerty7-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/dining/10hagerty7/10hagerty7-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/dining/10hagerty7/10hagerty7-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ae6491d2-5f3f-51c0-bb7c-f1e6555a44e7",
+      "url": "https://www.nytimes.com/2020/12/09/style/pantone-color-2021-ultimate-gray-illuminating.html",
+      "id": 100000007494427,
+      "asset_id": 100000007494427,
+      "source": "New York Times",
+      "published_date": "2020-12-09",
+      "updated": "2020-12-10 04:31:07",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Color;your-feed-fashion;Eiseman, Leatrice;Pantone Inc",
+      "column": null,
+      "byline": "By Vanessa Friedman",
+      "type": "Article",
+      "title": "Pantone Picks Two Colors of the Year for 2021",
+      "abstract": "It’s all about the messaging. Get ready for a brighter future.",
+      "des_facet": [
+        "Color",
+        "your-feed-fashion"
+      ],
+      "org_facet": [
+        "Pantone Inc"
+      ],
+      "per_facet": [
+        "Eiseman, Leatrice"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;Illuminating&rdquo; and &ldquo;Ultimate Gray&rdquo; are Pantone&rsquo;s 2021 Colors of the Year.",
+          "copyright": "via Pantone",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/fashion/09Pantone-1/09Pantone-1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/fashion/09Pantone-1/09Pantone-1-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/fashion/09Pantone-1/09Pantone-1-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ca8066e6-713e-54f9-a44f-6e22b02acf89",
+      "url": "https://www.nytimes.com/2020/12/09/style/tone-indicators-online.html",
+      "id": 100000007461812,
+      "asset_id": 100000007461812,
+      "source": "New York Times",
+      "published_date": "2020-12-09",
+      "updated": "2020-12-09 22:49:15",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Social Media;Grammar;Language and Languages;Emojis and Emoticons;Autism;your-feed-internet-culture;your-feed-selfcare",
+      "column": null,
+      "byline": "By Ezra Marcus and Shane O’Neill",
+      "type": "Article",
+      "title": "Tone Is Hard to Grasp Online. Can Tone Indicators Help?",
+      "abstract": "We all struggle to communicate on the internet. Now, young people are leading a sincere effort to clear things up.",
+      "des_facet": [
+        "Social Media",
+        "Grammar",
+        "Language and Languages",
+        "Emojis and Emoticons",
+        "Autism",
+        "your-feed-internet-culture",
+        "your-feed-selfcare"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In a series of videos below, Lorelei Ramirez demonstrates how to convey the different tones.",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/13/fashion/09toneindicators-promo/09toneindicators-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/13/fashion/09toneindicators-promo/09toneindicators-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/13/fashion/09toneindicators-promo/09toneindicators-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/68854532-1bc3-58c7-8fb8-54216c48a023",
+      "url": "https://www.nytimes.com/2020/12/10/us/politics/biden-student-loans.html",
+      "id": 100000007492700,
+      "asset_id": 100000007492700,
+      "source": "New York Times",
+      "published_date": "2020-12-10",
+      "updated": "2020-12-11 10:16:19",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Student Loans;Colleges and Universities;United States Economy;Stimulus (Economic);United States Politics and Government;Executive Orders and Memorandums;Biden, Joseph R Jr;Democratic Party;Education Department (US);House of Representatives;Senate",
+      "column": null,
+      "byline": "By Erica L. Green, Luke Broadwater and Stacy Cowley",
+      "type": "Article",
+      "title": "Student Loan Cancellation Sets Up Clash Between Biden and the Left",
+      "abstract": "Democratic leaders are pressing the president-elect to cancel $50,000 in debt per student borrower by fast executive action, but he wants Congress to pass more modest relief.",
+      "des_facet": [
+        "Student Loans",
+        "Colleges and Universities",
+        "United States Economy",
+        "Stimulus (Economic)",
+        "United States Politics and Government",
+        "Executive Orders and Memorandums"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Education Department (US)",
+        "House of Representatives",
+        "Senate"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marquette University in Milwaukee last month. Student debt has tripled since 2006 and eclipsed credit cards and auto loans as the largest source of household debt outside mortgages.",
+          "copyright": "Taylor Glascock for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/us/politics/00dc-biden-loans1/00dc-biden-loans1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/us/politics/00dc-biden-loans1/merlin_179669403_d2b2359e-235c-46f5-86fd-84b383a1ca30-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/us/politics/00dc-biden-loans1/merlin_179669403_d2b2359e-235c-46f5-86fd-84b383a1ca30-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c4f9dcde-70eb-57fb-a397-943eb4cdd48e",
+      "url": "https://www.nytimes.com/2020/12/09/business/media/disney-plus-new-movies.html",
+      "id": 100000007494701,
+      "asset_id": 100000007494701,
+      "source": "New York Times",
+      "published_date": "2020-12-09",
+      "updated": "2020-12-10 18:17:30",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "Movies;Video Recordings, Downloads and Streaming;Chapek, Robert A;Disney Plus;Walt Disney Company",
+      "column": null,
+      "byline": "By Brooks Barnes",
+      "type": "Article",
+      "title": "Disney to Reveal Plans to Turbocharge Streaming Offerings",
+      "abstract": "Some big-budget movies will first go to theaters. Other offerings will debut online. All will ultimately strengthen Disney+.",
+      "des_facet": [
+        "Movies",
+        "Video Recordings, Downloads and Streaming"
+      ],
+      "org_facet": [
+        "Disney Plus",
+        "Walt Disney Company"
+      ],
+      "per_facet": [
+        "Chapek, Robert A"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“The Mandalorian” has been a hit for Disney+ and the company is planning more “Star Wars” content for the streaming service.",
+          "copyright": "Disney Plus, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/business/09disney/merlin_179099916_e6ad3dd9-7ebc-42c0-bea7-6a5d0502d278-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/business/09disney/merlin_179099916_e6ad3dd9-7ebc-42c0-bea7-6a5d0502d278-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/business/09disney/merlin_179099916_e6ad3dd9-7ebc-42c0-bea7-6a5d0502d278-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/cb8670c6-7f1c-577f-9141-28a3deb601be",
+      "url": "https://www.nytimes.com/2020/12/10/arts/television/trevor-noah-trump-supreme-court.html",
+      "id": 100000007495670,
+      "asset_id": 100000007495670,
+      "source": "New York Times",
+      "published_date": "2020-12-10",
+      "updated": "2020-12-10 08:49:31",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Colbert, Stephen;Noah, Trevor (1984- );Fallon, Jimmy;Trump, Donald J",
+      "column": null,
+      "byline": "By Trish Bendix",
+      "type": "Article",
+      "title": "Trevor Noah: Trump Takes Another ‘L’ Trying to ‘Unlose’ the Election",
+      "abstract": "“Not only did they shut this case down, but they shut it down in just 34 minutes,” Noah said of the Supreme Court. “They didn’t even pretend that they were going to consider it.”",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [
+        "Colbert, Stephen",
+        "Noah, Trevor (1984- )",
+        "Fallon, Jimmy",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Late-night hosts weighed in on the Supreme Court’s one-sentence rejection of a lawsuit seeking to overturn election results in Pennsylvania.",
+          "copyright": "Comedy Central",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/arts/10latenight/10latenight-thumbStandard-v2.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/arts/10latenight/10latenight-mediumThreeByTwo210-v2.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/10/arts/10latenight/10latenight-mediumThreeByTwo440-v2.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/681abc2b-4c46-5f9c-a37a-b31110221f74",
+      "url": "https://www.nytimes.com/2020/12/09/opinion/trump-social-status-resentment.html",
+      "id": 100000007493328,
+      "asset_id": 100000007493328,
+      "source": "New York Times",
+      "published_date": "2020-12-09",
+      "updated": "2020-12-10 07:20:27",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Social Conditions and Trends;United States Politics and Government;Presidential Election of 2020;Income Inequality;Whites;Race and Ethnicity;Trump, Donald J;Republican Party;Democratic Party",
+      "column": null,
+      "byline": "By Thomas B. Edsall",
+      "type": "Article",
+      "title": "The Resentment That Never Sleeps",
+      "abstract": "Rising anxiety over declining social status tells us a lot about how we got here and where we’re going.",
+      "des_facet": [
+        "Social Conditions and Trends",
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Income Inequality",
+        "Whites",
+        "Race and Ethnicity"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Joshua Roberts/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/opinion/09edsall1/09edsall1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/opinion/09edsall1/merlin_137473074_4a20c95b-802f-4ea3-9374-2cc6e4c83a0f-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/opinion/09edsall1/merlin_137473074_4a20c95b-802f-4ea3-9374-2cc6e4c83a0f-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/981fefd6-7684-5d32-aa65-052f90d27495",
+      "url": "https://www.nytimes.com/2020/12/09/world/the-uk-says-people-with-severe-allergies-should-not-take-the-pfizer-biontech-vaccine-while-two-reactions-are-under-investigation.html",
+      "id": 100000007494633,
+      "asset_id": 100000007494633,
+      "source": "New York Times",
+      "published_date": "2020-12-09",
+      "updated": "2020-12-10 03:42:33",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "internal-essential",
+      "column": null,
+      "byline": "By Benjamin Mueller",
+      "type": "Article",
+      "title": "The U.K. says people with severe allergies should not take the Pfizer-BioNTech vaccine while two reactions are under investigation.",
+      "abstract": "",
+      "des_facet": [
+        "internal-essential"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Thousands of Britons received the first clinically authorized, fully tested coronavirus vaccine on Tuesday, with many people reporting few side effects.",
+          "copyright": "Andrew Testa for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/world/09virus-briefing-allergy/09virus-briefing-allergy-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/world/09virus-briefing-allergy/09virus-briefing-allergy-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/world/09virus-briefing-allergy/09virus-briefing-allergy-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/47debfc1-8ce1-5566-b699-d9634c20bca6",
+      "url": "https://www.nytimes.com/2020/12/09/well/live/covid-coronavirus-testing.html",
+      "id": 100000007461164,
+      "asset_id": 100000007461164,
+      "source": "New York Times",
+      "published_date": "2020-12-09",
+      "updated": "2020-12-11 09:34:04",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Coronavirus Risks and Safety Concerns;Tests (Medical);Content Type: Service;Masks;Laboratories and Scientific Equipment;Medicine and Health;Health Insurance and Managed Care;Protective Clothing and Gear;Smell (Olfaction)",
+      "column": null,
+      "byline": "By Tara Parker-Pope, Katherine J. Wu and Cathryn Virginia",
+      "type": "Article",
+      "title": "What You Need to Know About Getting Tested for Coronavirus",
+      "abstract": "Long lines, slow results and inconsistent advice have left many of us confused about when and how to get tested. We talked to the experts to answer your questions.",
+      "des_facet": [
+        "Coronavirus Risks and Safety Concerns",
+        "Tests (Medical)",
+        "Content Type: Service",
+        "Masks",
+        "Laboratories and Scientific Equipment",
+        "Medicine and Health",
+        "Health Insurance and Managed Care",
+        "Protective Clothing and Gear",
+        "Smell (Olfaction)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "What You Need to Know About Getting Tested for Coronavirus",
+          "copyright": "Cathryn Virginia",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/15/well/00well-virus-testing-guide/00well-virus-testing-guide-thumbStandard-v4.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/15/well/00well-virus-testing-guide/00well-virus-testing-guide-mediumThreeByTwo210-v5.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/15/well/00well-virus-testing-guide/00well-virus-testing-guide-mediumThreeByTwo440-v5.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "hits": [
+    {
+      "created_at": "2020-12-09T10:48:39.000Z",
+      "title": "Cameras and Lenses",
+      "url": "https://ciechanow.ski/cameras-and-lenses/",
+      "author": "mariuz",
+      "points": 2015,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 189,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607510919,
+      "_tags": [
+        "story",
+        "author_mariuz",
+        "story_25357315",
+        "front_page"
+      ],
+      "objectID": "25357315",
+      "_highlightResult": {
+        "title": {
+          "value": "Cameras and Lenses",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://ciechanow.ski/cameras-and-lenses/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mariuz",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-10T17:24:22.000Z",
+      "title": "The Airbnbs",
+      "url": "https://blog.ycombinator.com/the-airbnbs/",
+      "author": "todsacerdoti",
+      "points": 576,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 459,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607621062,
+      "_tags": [
+        "story",
+        "author_todsacerdoti",
+        "story_25375979",
+        "front_page"
+      ],
+      "objectID": "25375979",
+      "_highlightResult": {
+        "title": {
+          "value": "The Airbnbs",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://blog.ycombinator.com/the-airbnbs/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "todsacerdoti",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-10T11:00:33.000Z",
+      "title": "Pointer Pointer (2012)",
+      "url": "https://pointerpointer.com/",
+      "author": "heinrich5991",
+      "points": 313,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 46,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607598033,
+      "_tags": [
+        "story",
+        "author_heinrich5991",
+        "story_25372356",
+        "front_page"
+      ],
+      "objectID": "25372356",
+      "_highlightResult": {
+        "title": {
+          "value": "Pointer Pointer (2012)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://pointerpointer.com/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "heinrich5991",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T01:35:56.000Z",
+      "title": "Cypress: Fast, easy, and reliable testing for anything that runs in a browser",
+      "url": "https://www.cypress.io/",
+      "author": "OJFord",
+      "points": 268,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 132,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607650556,
+      "_tags": [
+        "story",
+        "author_OJFord",
+        "story_25381242",
+        "front_page"
+      ],
+      "objectID": "25381242",
+      "_highlightResult": {
+        "title": {
+          "value": "Cypress: Fast, easy, and reliable testing for anything that runs in a browser",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.cypress.io/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "OJFord",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T00:59:16.000Z",
+      "title": "Google Alternatives",
+      "url": "https://justprivacy.org/google-alternatives/",
+      "author": "yepgwer",
+      "points": 258,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 202,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607648356,
+      "_tags": [
+        "story",
+        "author_yepgwer",
+        "story_25380999",
+        "front_page"
+      ],
+      "objectID": "25380999",
+      "_highlightResult": {
+        "title": {
+          "value": "Google Alternatives",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://justprivacy.org/google-alternatives/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "yepgwer",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T08:11:23.000Z",
+      "title": "Microsoft releases a preview of x64 emulation on Windows for ARM",
+      "url": "https://blogs.windows.com/windows-insider/2020/12/10/announcing-windows-10-insider-preview-build-21277/",
+      "author": "Tepix",
+      "points": 244,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 241,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607674283,
+      "_tags": [
+        "story",
+        "author_Tepix",
+        "story_25383524",
+        "front_page"
+      ],
+      "objectID": "25383524",
+      "_highlightResult": {
+        "title": {
+          "value": "Microsoft releases a preview of x64 emulation on Windows for ARM",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://blogs.windows.com/windows-insider/2020/12/10/announcing-windows-10-insider-preview-build-21277/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "Tepix",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-10T20:57:27.000Z",
+      "title": "Am I Disabled?",
+      "url": "https://aeon.co/essays/what-does-it-mean-to-consider-yourself-a-disabled-person",
+      "author": "magnifique",
+      "points": 182,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 150,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607633847,
+      "_tags": [
+        "story",
+        "author_magnifique",
+        "story_25378551",
+        "front_page"
+      ],
+      "objectID": "25378551",
+      "_highlightResult": {
+        "title": {
+          "value": "Am I Disabled?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://aeon.co/essays/what-does-it-mean-to-consider-yourself-a-disabled-person",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "magnifique",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T09:48:18.000Z",
+      "title": "We can have democracy or we can have Facebook",
+      "url": "https://the.ink/p/we-can-have-democracy-or-we-can-have",
+      "author": "imartin2k",
+      "points": 180,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 300,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607680098,
+      "_tags": [
+        "story",
+        "author_imartin2k",
+        "story_25383976",
+        "front_page"
+      ],
+      "objectID": "25383976",
+      "_highlightResult": {
+        "title": {
+          "value": "We can have democracy or we can have Facebook",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://the.ink/p/we-can-have-democracy-or-we-can-have",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "imartin2k",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T05:03:56.000Z",
+      "title": "Some doctors, therapists get Health Canada permission to use magic mushrooms",
+      "url": "https://www.cbc.ca/news/canada/london/some-doctors-therapists-get-health-canada-permission-to-use-magic-mushrooms-1.5834485",
+      "author": "billyharris",
+      "points": 151,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 32,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607663036,
+      "_tags": [
+        "story",
+        "author_billyharris",
+        "story_25382497",
+        "front_page"
+      ],
+      "objectID": "25382497",
+      "_highlightResult": {
+        "title": {
+          "value": "Some doctors, therapists get Health Canada permission to use magic mushrooms",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.cbc.ca/news/canada/london/some-doctors-therapists-get-health-canada-permission-to-use-magic-mushrooms-1.5834485",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "billyharris",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T05:10:19.000Z",
+      "title": "Vftool runs Linux virtual machines in macOS Big Sur",
+      "url": "https://github.com/evansm7/vftool",
+      "author": "syrusakbary",
+      "points": 150,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 65,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607663419,
+      "_tags": [
+        "story",
+        "author_syrusakbary",
+        "story_25382529",
+        "front_page"
+      ],
+      "objectID": "25382529",
+      "_highlightResult": {
+        "title": {
+          "value": "Vftool runs Linux virtual machines in macOS Big Sur",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/evansm7/vftool",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "syrusakbary",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T08:26:29.000Z",
+      "title": "Heavy is the Head that wears the AirPods Max",
+      "url": "https://daringfireball.net/2020/12/heavy_is_the_head_that_wears_the_airpods_max",
+      "author": "ch_sm",
+      "points": 145,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 256,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607675189,
+      "_tags": [
+        "story",
+        "author_ch_sm",
+        "story_25383598",
+        "front_page"
+      ],
+      "objectID": "25383598",
+      "_highlightResult": {
+        "title": {
+          "value": "Heavy is the Head that wears the AirPods Max",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://daringfireball.net/2020/12/heavy_is_the_head_that_wears_the_airpods_max",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "ch_sm",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T12:32:57.000Z",
+      "title": "EU leaders agree to cut emissions by at least 55% by end of decade",
+      "url": "https://www.theguardian.com/world/2020/dec/11/eu-leaders-reach-deal-to-cut-emissions-by-at-least-55-by-end-of-decade",
+      "author": "billyharris",
+      "points": 136,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 80,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607689977,
+      "_tags": [
+        "story",
+        "author_billyharris",
+        "story_25385014",
+        "front_page"
+      ],
+      "objectID": "25385014",
+      "_highlightResult": {
+        "title": {
+          "value": "EU leaders agree to cut emissions by at least 55% by end of decade",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.theguardian.com/world/2020/dec/11/eu-leaders-reach-deal-to-cut-emissions-by-at-least-55-by-end-of-decade",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "billyharris",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T06:42:40.000Z",
+      "title": "Monads and GATs in Nightly Rust",
+      "url": "https://www.fpcomplete.com/blog/monads-gats-nightly-rust/",
+      "author": "asimpletune",
+      "points": 123,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 65,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607668960,
+      "_tags": [
+        "story",
+        "author_asimpletune",
+        "story_25383066",
+        "front_page"
+      ],
+      "objectID": "25383066",
+      "_highlightResult": {
+        "title": {
+          "value": "Monads and GATs in Nightly Rust",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.fpcomplete.com/blog/monads-gats-nightly-rust/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "asimpletune",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T14:03:13.000Z",
+      "title": "Who Americans spend their time with, by age",
+      "url": "https://ourworldindata.org/time-with-others-lifetime",
+      "author": "EOO_OWID",
+      "points": 122,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 74,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607695393,
+      "_tags": [
+        "story",
+        "author_EOO_OWID",
+        "story_25385833",
+        "front_page"
+      ],
+      "objectID": "25385833",
+      "_highlightResult": {
+        "title": {
+          "value": "Who Americans spend their time with, by age",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://ourworldindata.org/time-with-others-lifetime",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "EOO_OWID",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T01:52:25.000Z",
+      "title": "How the Slowest Computer Programs Illuminate Math’s Fundamental Limits",
+      "url": "https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/",
+      "author": "pontus",
+      "points": 121,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 33,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607651545,
+      "_tags": [
+        "story",
+        "author_pontus",
+        "story_25381325",
+        "front_page"
+      ],
+      "objectID": "25381325",
+      "_highlightResult": {
+        "title": {
+          "value": "How the Slowest Computer Programs Illuminate Math’s Fundamental Limits",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "pontus",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T08:31:02.000Z",
+      "title": "Museum of Bad Album Covers",
+      "url": "http://www.zonicweb.net/badalbmcvrs/index.htm",
+      "author": "gscott",
+      "points": 120,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 71,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607675462,
+      "_tags": [
+        "story",
+        "author_gscott",
+        "story_25383623",
+        "front_page"
+      ],
+      "objectID": "25383623",
+      "_highlightResult": {
+        "title": {
+          "value": "Museum of Bad Album Covers",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "http://www.zonicweb.net/badalbmcvrs/index.htm",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "gscott",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T02:05:34.000Z",
+      "title": "Finding Critical Open Source Projects",
+      "url": "https://opensource.googleblog.com/",
+      "author": "QuantumWasp",
+      "points": 104,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 62,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607652334,
+      "_tags": [
+        "story",
+        "author_QuantumWasp",
+        "story_25381397",
+        "front_page"
+      ],
+      "objectID": "25381397",
+      "_highlightResult": {
+        "title": {
+          "value": "Finding Critical Open Source Projects",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://opensource.googleblog.com/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "QuantumWasp",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T06:51:12.000Z",
+      "title": "Brave Introduces Brave Today, the Privacy-Preserving News Reader",
+      "url": "https://brave.com/announcing-brave-today/",
+      "author": "nsnante",
+      "points": 100,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 64,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607669472,
+      "_tags": [
+        "story",
+        "author_nsnante",
+        "story_25383119",
+        "front_page"
+      ],
+      "objectID": "25383119",
+      "_highlightResult": {
+        "title": {
+          "value": "Brave Introduces Brave Today, the Privacy-Preserving News Reader",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://brave.com/announcing-brave-today/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "nsnante",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-10T11:44:40.000Z",
+      "title": "The 'Japanese Bob Ross': How a 73-year-old artist took YouTube by storm",
+      "url": "https://edition.cnn.com/2020/12/09/asia/shibasaki-japan-youtube-star-spc-intl/index.html",
+      "author": "williamsharris",
+      "points": 87,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 20,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607600680,
+      "_tags": [
+        "story",
+        "author_williamsharris",
+        "story_25372620",
+        "front_page"
+      ],
+      "objectID": "25372620",
+      "_highlightResult": {
+        "title": {
+          "value": "The 'Japanese Bob Ross': How a 73-year-old artist took YouTube by storm",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://edition.cnn.com/2020/12/09/asia/shibasaki-japan-youtube-star-spc-intl/index.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "williamsharris",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-12-11T12:06:43.000Z",
+      "title": "GnuCOBOL 3.1.1",
+      "url": "https://sourceforge.net/p/gnucobol/code/HEAD/tree/branches/gnucobol-3.x/NEWS",
+      "author": "rhabarba",
+      "points": 78,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 91,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607688403,
+      "_tags": [
+        "story",
+        "author_rhabarba",
+        "story_25384846",
+        "front_page"
+      ],
+      "objectID": "25384846",
+      "_highlightResult": {
+        "title": {
+          "value": "GnuCOBOL 3.1.1",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://sourceforge.net/p/gnucobol/code/HEAD/tree/branches/gnucobol-3.x/NEWS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "rhabarba",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 32,
+  "page": 0,
+  "nbPages": 2,
+  "hitsPerPage": 20,
+  "exhaustiveNbHits": true,
+  "query": "",
+  "params": "advancedSyntax=true&analytics=true&analyticsTags=backend&tags=front_page",
+  "processingTimeMS": 1
+}
