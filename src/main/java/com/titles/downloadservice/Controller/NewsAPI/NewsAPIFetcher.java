@@ -17,7 +17,7 @@ public class NewsAPIFetcher implements Source {
     private final RestTemplate restTemplate;
 
     // FIXME hide this
-    private final String pivateKey = "";
+    private final String pivateKey = "ebc792054f5e4d5eb1fac2cc242fd4cd";
 
     private final String url = "http://newsapi.org/v2/top-headlines?country=us&apiKey=";
 

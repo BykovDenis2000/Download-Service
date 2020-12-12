@@ -15,7 +15,7 @@ public class NYTAPIFetcher implements Source {
     private final RestTemplate restTemplate;
 
     // FIXME hide this
-    private final String pivateKey = "";
+    private final String pivateKey = "vT5AK7ZlIM17z07vUA8x67wnxYnYSbHO";
 
     private final String url = "https://api.nytimes.com/svc/mostpopular/v2/viewed/1.json?api-key=";
 
